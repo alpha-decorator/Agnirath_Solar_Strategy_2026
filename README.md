@@ -55,4 +55,4 @@ While the vehicle has the power to drive faster, the cubic relationship between 
 2. Upload `route_environment.csv` to the working directory.
 3. Run all cells in `LastChallenge.ipynb` to regenerate the telemetry and plots.
 
-we can also go with 13th loop but then soc will be less then 20% but we can recharge our battery after finishing the race 50 min early and getting SOC>20% in that case but, is it allowed or not was not known by me hence i chose to complete only 12 loops.
+
